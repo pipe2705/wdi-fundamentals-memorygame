@@ -23,3 +23,11 @@ if (cardsInPlay[0] === cardsInPlay[1]) {
 else {
   alert("Sorry, Try again");
 }
+
+var difference = function (x, y) {
+   return x - y;
+   var diff = 8;
+ };
+ var diff = difference(9, 4);
+ console.log(diff);
+ 
